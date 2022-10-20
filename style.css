@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+	background-image: url(https://i.pinimg.com/564x/a1/68/d2/a168d265b010fddf8aa1805f67f94045.jpg);
+}
+*{
+	color: white;
+}
+h1{
+	font-family: apple chancery;
+	color: beige;
+	text-align: center;
+	font-size: xx-large;
+}
+#halo{
+	text-align: center;
+	font-weight: bold;
+}
+.biodata{
+	margin-right: 50px;
+	margin-left: 50px;
+}
+.hubungi{
+	background-color: slategray;
+	margin-right: 750px;
+	color: black;
+}
+.keahlian{
+	margin-right: 100px;
+	margin-left: 30px;
+}
