@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+	background-image: url(https://i.pinimg.com/564x/a1/68/d2/a168d265b010fddf8aa1805f67f94045.jpg);
+}
+*{
+	color: white;
+}
+h1{
+	font-family: apple chancery;
+	color: beige;
+	text-align: center;
+	font-size: xx-large;
+}
+#halo{
+	text-align: center;
+	font-weight: bold;
+}
+.biodata{
+	margin-right: 50px;
+	margin-left: 50px;
+}
+.hubungi{
+	background-color: slategray;
+	margin-right: 750px;
+	margin-left: 100px;
+	color: black;
+	padding: 50px;
+	border-radius: 10px;
+}
+.keahlian{
+	margin-right: 100px;
+	margin-left: 30px;
+}
+.submit{
+	color: black;
+}
+@media screen and (min-width: 500px){
+
+	.hubungi{
+	background-color: slategray;
+	margin-right: 750px;
+	margin-left: 100px;
+	color: black;
+	padding: 50px;
+	border-radius: 10px;
+	width: 230px;
+	}
+
+}
+.wrapper{
+	display: flex;
+	grid-template-columns: 1fr 2fr 2fr;
+}
+table{
+	left: 50px;
+
+}
